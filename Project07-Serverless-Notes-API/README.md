@@ -24,11 +24,11 @@ Build and test a low-cost serverless API that performs:
 - **Amazon CloudWatch** — Provides Lambda execution logs and monitoring
 
 ## Architecture
-**Request flow:**
+Client → Amazon API Gateway → AWS Lambda → Amazon DynamoDB
 
-Client → API Gateway → Lambda → DynamoDB
+IAM provides controlled access to DynamoDB, while CloudWatch provides Lambda execution logging and monitoring.
 
-IAM provides controlled access to DynamoDB, while CloudWatch provides Lambda execution logging.
+The full architecture diagram is available in the project folder.
 
 ## Implementation Summary
 
@@ -134,6 +134,8 @@ Implementation screenshots are available in the `screenshots` folder.
 13. CloudWatch Lambda execution logs
 
 ## Documentation
+
+The Project 07 Summary PDF is available in the project folder.
 
 ## Key Takeaways
 
