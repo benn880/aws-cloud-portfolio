@@ -135,8 +135,6 @@ Implementation screenshots are available in the `screenshots` folder.
 
 ## Documentation
 
-[Project Summary PDF](Project07_Serverless_Notes_API_Summary.pdf)
-
 ## Key Takeaways
 
 This project provided hands-on experience building a serverless API from the database layer through the API and application logic layers, while applying IAM security and CloudWatch monitoring.
