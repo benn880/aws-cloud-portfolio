@@ -25,7 +25,7 @@ Build and test a low-cost serverless API that performs:
 
 ## Architecture
 
-![Project 07 Architecture](Project07_Serverless_Notes_API_Architecture.png)
+![Project 07 Architecture](Project07_ArchitecturalDiagram.png)
 
 **Request flow:**
 
