@@ -24,9 +24,6 @@ Build and test a low-cost serverless API that performs:
 - **Amazon CloudWatch** — Provides Lambda execution logs and monitoring
 
 ## Architecture
-
-![Project 07 Architecture](Project07_ArchitecturalDiagram.png)
-
 **Request flow:**
 
 Client → API Gateway → Lambda → DynamoDB
